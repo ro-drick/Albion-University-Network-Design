@@ -1,5 +1,7 @@
 # Albion University Network Topology Design
 
+<img src="https://github.com/ro-drick/Albion-University-Network-Design/blob/main/campus-network.png">
+
 ## Project Overview
 
 This project simulates the **network architecture** for **Albion University**, which consists of a **main campus** and a **smaller branch campus**, located 20 miles apart. The design focuses on ensuring seamless communication, security, and network efficiency across the university’s **administrative departments**, **faculties**, and **student labs** using **Cisco Packet Tracer**. 
@@ -69,7 +71,8 @@ This project utilizes a wide range of **networking technologies** and configurat
 
 Below is the visual representation of the **Albion University Network Topology**.
 
-*(Include the image of the network topology diagram here or a link to the image.)*
+<img src= "https://github.com/ro-drick/Albion-University-Network-Design/blob/main/campus-network.PNG">
+
 
 ### **Main Campus**:
 - **Building A**: VLANs for **administrative departments** and **Faculty of Business**.
@@ -147,7 +150,7 @@ Reply from 192.168.20.2: bytes=32 time=20ms TTL=64
 
 ## How to Use the Project
 
-1. **Download** the `.pkt` (Packet Tracer) file from the repository.
+1. **Download** the `campus-network.pkt` (Packet Tracer) file from the repository.
 2. **Open** the file in **Cisco Packet Tracer**.
 3. **Examine** the network topology, configurations, and connectivity tests.
 4. **Modify** the design and configurations as needed for further learning or testing.
