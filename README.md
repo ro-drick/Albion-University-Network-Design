@@ -1,4 +1,4 @@
-# Albion University Network Topology Design
+# Albion University Network Design and Implementation
 
 <img src="https://github.com/ro-drick/Albion-University-Network-Design/blob/main/campus-network.png">
 
