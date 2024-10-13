@@ -166,6 +166,5 @@ This project demonstrates a scalable, secure, and efficient network topology for
 
 ## Project Files
 
-- **[Network Topology Diagram](path_to_image)**: The complete diagram of the network design.
-- **[Packet Tracer File](path_to_packet_tracer_file)**: Download the Cisco Packet Tracer `.pkt` file here.
+- **[Packet Tracer File](https://github.com/ro-drick/Albion-University-Network-Design/blob/main/campus-network.pkt)**: Download the Cisco Packet Tracer `.pkt` file here.
 
